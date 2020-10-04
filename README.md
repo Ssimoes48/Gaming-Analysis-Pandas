@@ -13,7 +13,7 @@ Panda's Gaming Analysis of Fantasy game 'Heroes of Pymoli'
 * [Contact](#contact)
 
 ## Data Summary
-![Total Players](Images/player_count.png)
+![Total Players](./Images/player_count.png)
 
 ![Purchasing Analysis By Gender](Images/purchasing_analysis_total.png)
 
