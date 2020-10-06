@@ -20,12 +20,26 @@ Using `Pandas`, I have evaluated the players purchasing habits by gender and by 
 * [Contact](#contact)
 
 ## Data Summary
+
+I used a `.nunique()` count function to count the total number of users playing the game. 
+
 ![Total Players](Images/player_count.PNG)
+
+I used basic calculations like `.sum()` and `.mean()` to calculate the total revenue spent in the game and average purchase price of items.
 
 ![Purchasing Analysis By Gender](Images/purchasing_analysis_total.PNG)
 
 ## Gender Info
+
+I used a `.groupby` function to group the player data by gender to evaluate the amount of players and their spending habits based on their gender. I then calucated the percentage of players in each gender. 
+
+I formatted the results using a `.map("{:,.2f}%".format` function. As you can see below, men make up 84% of the player base. 
+
 ![Gender Demographics](Images/gender_demo.PNG)
+
+As you can see from the below breakdown of spending habits by gender, although the men spent almost 6x more money than women did as a group, the average purchase price and total purchase price per player is higher for women. These results are in line with the total number of players by gender which show that men represent over ¾ of the players. 
+
+I used the `.map("${:,.2f}".format` function to display my results in currency. 
 
 ![Purchasing Analysis By Gender](Images/purchase_analysis_gender.PNG)
 
