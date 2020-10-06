@@ -73,5 +73,7 @@ The most profitable item was calculated in a similar format accept I used the to
 
 ## Jupyter Notebook
 
+https://github.com/Ssimoes48/Pandas-Challenge/blob/master/HeroesOfPymoli_Simoes.ipynb
+
 ## Contact
 Sara Simoes 
