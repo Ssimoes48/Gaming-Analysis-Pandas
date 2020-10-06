@@ -29,7 +29,7 @@ I used basic calculations like `.sum()` and `.mean()` to calculate the total rev
 
 ![Purchasing Analysis By Gender](Images/purchasing_analysis_total.PNG)
 
-## Gender Info
+## Gender Demographics
 
 I used a `.groupby` function to group the player data by gender to evaluate the amount of players and their spending habits based on their gender. I then calucated the percentage of players in each gender. 
 
@@ -43,7 +43,7 @@ I used the `.map("${:,.2f}".format` function to display my results in currency.
 
 ![Purchasing Analysis By Gender](Images/purchase_analysis_gender.PNG)
 
-## Age Info
+## Age Demographics
 
 For the analysis of players by age, I used the `bins` function to group the data into age brackets of 5 years. I used the `pd.cut` function to create a table highlighting age demographics. As you can see, player ages 15-30 make up ¾ of the player total. Ages 21-25 are almost ½ of total player. 
 
