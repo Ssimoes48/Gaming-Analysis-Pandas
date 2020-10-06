@@ -11,8 +11,8 @@ Using `Pandas`, I have evaluated the players purchasing habits by gender and by 
 
 ## Table of contents
 * [Data Summary](#data-summary)
-* [Gender Info](#gender-info)
-* [Age Info](#age-info)
+* [Gender Demographics](#gender-demographics)
+* [Age Demographics](#age-demographics)
 * [Top Spenders](#top-spenders)
 * [Best Items](#best-items)
 * [Conclusion](#conclusion)
