@@ -78,7 +78,8 @@ The players of this game are predominantly male, making up 84% of the total play
 Players within the age brackets of 15-30 make up ¾ of the total players. Although they only make up about 4% if the total, players age 10 and under actually have the highest average purchase price. 
 
 The most popular item purchased in the game is also the most profitable item purchased. This makes sense as it is the item purchased the most times. 
-The most profitable demographic in this game are men between the age of 21-25. Female players tended to spend more money per player/item so to increase profitability, the game should try to target female players. 
+
+The most profitable demographic in this game are men between the age of 21-25. Female players tended to spend more money per player/item, so to increase profitability, the gaming company should try to target more female players. 
 
 
 ## Jupyter Notebook
@@ -86,4 +87,5 @@ The most profitable demographic in this game are men between the age of 21-25. F
 https://github.com/Ssimoes48/Pandas-Challenge/blob/master/HeroesOfPymoli_Simoes.ipynb
 
 ## Contact
-Sara Simoes 
+Sara Simoes
+
