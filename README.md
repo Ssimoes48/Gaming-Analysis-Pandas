@@ -54,10 +54,18 @@ I used similar calculations and functions as with gender demographics to analyze
 ![Purchasing Analysis By Age](Images/purchase_analysis_age.PNG)
 
 ## Top Spenders
+
+To calculate the top spending players in the game, I used the `groupby` function to group the players by their screen name. By doing this, I can see if players have made multiple purchase and add up the total purchase value by player. The top player is Lisosia93 who has made 5 item purchases totaling $18.96. 
+
 ![Top Spenders](Images/top_spender.PNG)
 
 ## Best Items
+
+The Most Popular items are the items that were purchased the most frequently. I created a new `DataFrame` which only referenced the Item ID, Item Name and Item Price. With this information I was able to use a `groupby` function of the Item ID and Item Name to see the number of times the item was purchased the total sales the item made. 
+
 ![Most Popular Item](Images/pop_item.PNG)
+
+The most profitable item was calculated in a similar format accept I used the total purchase value column to determine which item had the highest total revenue. The Most Popular Item is the same as the most profitable which makes sense since it has been purchased with the most frequency. 
 
 ![Most Profitable Item](Images/most_profitable_item.PNG)
 
