@@ -44,7 +44,12 @@ I used the `.map("${:,.2f}".format` function to display my results in currency.
 ![Purchasing Analysis By Gender](Images/purchase_analysis_gender.PNG)
 
 ## Age Info
+
+For the analysis of players by age, I used the `bins` function to group the data into age brackets of 5 years. I used the `pd.cut` function to create a table highlighting age demographics. As you can see, player ages 15-30 make up ¾ of the player total. Ages 21-25 are almost ½ of total player. 
+
 ![Age Demographics](Images/age_demo.PNG)
+
+I used similar calculations and functions as with gender demographics to analyze the spending habits of the players by age. With the data grouped in `bins` by age, you can see that although players within the most common age group of 15-30 have spent the most money, players under the age of 10 have actually spent the most per person in the game and have the highest average purchase price per item. 
 
 ![Purchasing Analysis By Age](Images/purchase_analysis_age.PNG)
 
