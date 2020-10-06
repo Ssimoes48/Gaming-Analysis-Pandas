@@ -71,6 +71,16 @@ The most profitable item was calculated in a similar format accept I used the to
 
 ## Conclusion
 
+By analyzing the Fantasy Video game Heroes of Pymoli’s player data, I am able conclude the following:
+
+The players of this game are predominantly male, making up 84% of the total players. The male players also account for over ¾ of total purchasing however the female players have a higher average purchase cost. 
+
+Players within the age brackets of 15-30 make up ¾ of the total players. Although they only make up about 4% if the total, players age 10 and under actually have the highest average purchase price. 
+
+The most popular item purchased in the game is also the most profitable item purchased. This makes sense as it is the item purchased the most times. 
+The most profitable demographic in this game are men between the age of 21-25. Female players tended to spend more money per player/item so to increase profitability, the game should try to target female players. 
+
+
 ## Jupyter Notebook
 
 https://github.com/Ssimoes48/Pandas-Challenge/blob/master/HeroesOfPymoli_Simoes.ipynb
