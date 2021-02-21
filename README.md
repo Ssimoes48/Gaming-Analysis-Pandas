@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# Pandas
 Panda's Gaming Analysis of Fantasy game 'Heroes of Pymoli'
 
 The below analysis explores player data from an Independent Gaming companies most recent fantasy game: ‘Heroes of Pymoli’. Like many other games in the Fantasy genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
